@@ -7,7 +7,6 @@
 *Automated acquisition and delivery system*
 
 [![Release](https://img.shields.io/github/v/release/TestPilotX/NX-Orion?style=for-the-badge&color=blue&label=Latest%20Firmware)](https://github.com/TestPilotX/NX-Orion/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/TestPilotX/NX-Orion/total?style=for-the-badge&color=green&label=Downloads)](https://github.com/TestPilotX/NX-Orion/releases)
 
 ---
 
