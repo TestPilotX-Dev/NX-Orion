@@ -37,9 +37,9 @@ All firmware files are verified against official CNMT records before packaging. 
 
 | Project | Description |
 |:---:|:---|
-| [**NX Paradox**](https://github.com/TestPilotX) | All-in-one Switch hub |
+| [**NX Paradox**](https://testpilotx.net/nx-paradox/) | All-in-one Switch hub |
 | **NX Orion** | Firmware archive |
-| **Stellar Access** | Content library |
+| [**Stellar Access**](https://testpilotx.net/biblioteca-tpx/) | Content library |
 | **Nebula Store** | Digital store |
 
 ---
