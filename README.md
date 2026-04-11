@@ -6,7 +6,7 @@
 
 *Automated acquisition and delivery system*
 
-[![Release](https://img.shields.io/github/v/release/TestPilotX/NX-Orion?style=for-the-badge&color=blue&label=Latest%20Firmware)](https://github.com/TestPilotX/NX-Orion/releases/latest)
+[![Release](https://img.shields.io/github/v/release/TestPilotX-Dev/NX-Orion?style=for-the-badge&color=blue&label=Latest%20Firmware)](https://github.com/TestPilotX-Dev/NX-Orion/releases/latest)
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 📥 Download
 
-Head to [**Releases**](https://github.com/TestPilotX/NX-Orion/releases) and grab the latest firmware.
+Head to [**Releases**](https://github.com/TestPilotX-Dev/NX-Orion/releases) and grab the latest firmware.
 
 ## ⚡ How It Works
 
@@ -44,6 +44,6 @@ All firmware files are verified against official CNMT records before packaging. 
 
 ---
 
-<sub>Built by <a href="https://github.com/TestPilotX">TestPilotX</a></sub>
+<sub>Built by <a href="https://github.com/TestPilotX-Dev">TestPilotX</a></sub>
 
 </div>
