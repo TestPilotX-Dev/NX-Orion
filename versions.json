@@ -1,0 +1,14 @@
+{
+  "versions": [
+    {
+      "version": "22.1.0",
+      "date": "2026-04-11 06:59 UTC",
+      "sha256": "b8d4fa946bc40443c7440940ca9b811033b3ab3b9035af23abed5252757891d0",
+      "size": "325M",
+      "nca_count": 238,
+      "download_url": "https://github.com/TestPilotX-Dev/NX-Orion/releases/download/22.1.0/Firmware.22.1.0.zip"
+    }
+  ],
+  "last_updated": "2026-04-11 06:59 UTC",
+  "total_versions": 1
+}
