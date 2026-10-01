@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "23.0.1",
+      "date": "2026-10-01 02:40 UTC",
+      "sha256": "5337647d78584d046b6c8f46792a07c3701d7ee68473620d5008f18fc7604781",
+      "size": "325M",
+      "nca_count": 238,
+      "download_url": "https://github.com/TestPilotX-Dev/NX-Orion/releases/download/23.0.1/Firmware.23.0.1.zip"
+    },
+    {
       "version": "23.0.0",
       "date": "2026-09-10 07:33 UTC",
       "sha256": "0d60b48630352b6b83cf48b49a5a063d6b1334cd14d2170028df602992e31755",
@@ -25,6 +33,6 @@
       "download_url": "https://github.com/TestPilotX-Dev/NX-Orion/releases/download/22.1.0/Firmware.22.1.0.zip"
     }
   ],
-  "last_updated": "2026-09-10 07:33 UTC",
-  "total_versions": 3
+  "last_updated": "2026-10-01 02:40 UTC",
+  "total_versions": 4
 }
